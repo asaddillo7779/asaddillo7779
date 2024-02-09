@@ -1,4 +1,4 @@
-<h1 align="center">Kotlin Developer</h1>
+<h1 align="center">Android Developer</h1>
 
 
 
@@ -38,7 +38,6 @@ Men har doim loyihalar va innovatsion g'oyalar ustida hamkorlik qilishga tayorma
 
 
 
-![I am Android dasturchisi](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
 
